@@ -14,7 +14,7 @@
 
 -------------------------------------------------------------------------------
 
-![](https://imgur.com/HcmMnmQ)
+![UnionDesarrolloSoftware](https://pbs.twimg.com/media/Gque8-_XEAA2NBG?format=jpg&name=large)
 
 
 ***Este es el primer entregable de nuestro proyecto integrador de DSOO, con C# y conexión a base de datos MySQL.***
