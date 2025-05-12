@@ -14,7 +14,7 @@
 
 -------------------------------------------------------------------------------
 
-![This is an alt text.](https://ideogram.ai/assets/image/lossless/response/NVZrtlgZSNuXaspCgL-yOw)
+![](https://imgur.com/HcmMnmQ)
 
 
 ***Este es el primer entregable de nuestro proyecto integrador de DSOO, con C# y conexión a base de datos MySQL.***
