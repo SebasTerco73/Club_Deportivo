@@ -1,4 +1,4 @@
-# # ⚽ TPI | CLUB DEPORTIVO | GRUPO 9
+# ⚽ TPI | CLUB DEPORTIVO | GRUPO 9
 
 #### **📍 Integrantes del GRUPO 9**
 
